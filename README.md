@@ -103,14 +103,6 @@ We welcome contributions! Please:
 4. Push to the branch (`git push origin feature/improvement`)
 5. Open a Pull Request
 
-## 📜 License (MIT)
-
-### Permissions
-✅ **Commercial use** - Can be used in paid products  
-✅ **Modification** - Code can be changed and adapted  
-✅ **Distribution** - Can be copied and shared  
-✅ **Private use** - Can be used in private projects  
-
 ### Limitations
 ⚠️ **Liability** - Author is not responsible for damages  
 🛡️ **Warranty** - Software provided "as is" with no guarantees  
